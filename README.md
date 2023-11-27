@@ -61,3 +61,6 @@ sean persistidas mediante el ORM Hibernate.
 * Quién fue el técnico con más incidentes resueltos de una determinada
 especialidad en los últimos N días
 * Quién fue el técnico que más rápido resolvió los incidentes
+
+## Youtube
+[![Alt text](https://img.youtube.com/vi/hwwntnL6Ljs/0.jpg)](https://www.youtube.com/watch?v=hwwntnL6Ljs)
